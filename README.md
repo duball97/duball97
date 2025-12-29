@@ -6,29 +6,11 @@
 
 <div align="center">
 
-<h1>Duball97</h1>
+<h1>About myself</h1>
 
-<p><i>legendary freelance dev + founder + builder</i></p>
+<p><i>freelance dev, founder & builder based in portugal</i></p>
 
-<p>based in portugal</p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/been_building_for_years-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/failed_quite_a_few_times-555555?style=for-the-badge" />
-<img src="https://img.shields.io/badge/still_here-ff6b35?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/currently_shipping-SingFi-ff6b35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/lover_of-sidequests-333333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/one_of_these_is_gonna_hit-we_can_feel_it-555555?style=for-the-badge" />
-
-<br/><br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=duball97&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duball97&theme=radical&hide_border=true&background=00000000)
+<p>Background in management, escaped the office 9-5 by making in tech. Currently shipping SingFi, a singing game app. Lover of sidequests.</p>
 
 </div>
 
@@ -78,7 +60,7 @@
 
 <div align="center">
 
-<h3>THE VIBE</h3>
+<h3>WHAT I DO</h3>
 
 </div>
 
@@ -88,27 +70,21 @@
 
 **prototyping**
 
-quick ideas  
-→ working demos  
-→ shipped products
+quick ideas to working demos
 
 </td>
 <td width="33%" align="center">
 
 **building**
 
-from quick hacks  
-to production apps  
-everything in between
+from prototypes to production apps
 
 </td>
 <td width="33%" align="center">
 
 **experimenting**
 
-trying new tech  
-breaking things  
-learning constantly
+always learning new tech
 
 </td>
 </tr>
@@ -118,7 +94,7 @@ learning constantly
 
 <div align="center">
 
-<h3>LET'S CONNECT</h3>
+<h3>CONNECT</h3>
 
 <br/>
 
@@ -140,10 +116,11 @@ learning constantly
 
 <br/>
 
-<blockquote>
-<p><i>"failed a bunch of times already, but still here building. one of these is gonna be the one. legendary freelance dev turned founder. the grind doesn't stop."</i></p>
-<p align="right"><b>duball97</b></p>
-</blockquote>
+<p>Failed a bunch of times already, but still here building. One of these is gonna be the one. Freelance dev turned founder, the grind doesn't stop.</p>
+
+<br/>
+
+<p><b>Hit me up if you have a good idea you would want to build! Always cool to connect with other builders.</b></p>
 
 </div>
 
