@@ -10,7 +10,7 @@
 
 <p><i>full stack dev, founder & legendary freelancer based in portugal</i></p>
 
-<p>Background in economics, escaping the office 9-5 by making in tech. Currently shipping SingFi, a singing game app. Jack of all trades.</p>
+<p>6 years building cool projects, background in economics, escaping the office 9-5 by making in tech. Currently shipping SingFi, a singing game app. Jack of all trades.</p>
 
 </div>
 
