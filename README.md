@@ -10,7 +10,7 @@
 
 <p><i>full stack dev, founder & legendary freelancer based in portugal</i></p>
 
-<p>4 years of experience coding, background in economics, in crypto since 2020, escaping the office 9-5 by making in tech and currently shipping SingFi, a singing game app. Jack of all trades.</p>
+<p>4 years of experience coding, background in economics, in crypto since 2020, escaping the office 9-5 by making in tech. Currently shipping SingFi, a singing game app.</p>
 
 </div>
 
