@@ -54,6 +54,8 @@
 
 
 
+<div align="center">
+
 <h3>Get in Touch</h3>
 
 <br/>
