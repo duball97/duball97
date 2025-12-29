@@ -20,6 +20,10 @@
 
 <h2>Tech Stack</h2>
 
+</div>
+
+<div align="left" style="max-width: 800px; margin: 0 auto;">
+
 <p>
 <strong>Frontend & Mobile:</strong>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
