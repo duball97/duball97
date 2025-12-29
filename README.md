@@ -6,19 +6,18 @@
 
 <div align="center">
 
-<h1>About myself</h1>
+<h1>Meet Duball</h1>
 
-<p><i>freelance dev, founder & builder based in portugal</i></p>
+<p><i>full stack dev, founder & legendary freelancer based in portugal</i></p>
 
-<p>Background in management, escaped the office 9-5 by making in tech. Currently shipping SingFi, a singing game app. Lover of sidequests.</p>
+<p>4 years of experience coding, background in economics, in crypto since 2020, escaping the office 9-5 by making in tech and currently shipping SingFi, a singing game app. Jack of all trades.</p>
 
 </div>
 
----
 
 <div align="center">
 
-<h3>TECH STACK</h3>
+<h3>Tech I use</h3>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -26,23 +25,24 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+
 
 </div>
 
----
 
 <div align="center">
 
-<h3>INTERESTS & SIDEQUESTS</h3>
+<h3>Things I like</h3>
 
 <img src="https://img.shields.io/badge/crypto-ff6b35?style=flat-square" />
 <img src="https://img.shields.io/badge/ai-333333?style=flat-square" />
@@ -56,45 +56,11 @@
 
 </div>
 
----
+
 
 <div align="center">
 
-<h3>WHAT I DO</h3>
-
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-**prototyping**
-
-quick ideas to working demos
-
-</td>
-<td width="33%" align="center">
-
-**building**
-
-from prototypes to production apps
-
-</td>
-<td width="33%" align="center">
-
-**experimenting**
-
-always learning new tech
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<h3>CONNECT</h3>
+<h3>Get in Touch</h3>
 
 <br/>
 
