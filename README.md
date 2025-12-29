@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h1>About myself</h1>
+<h1>Meet Duball</h1>
 
 <p><i>full stack dev, founder & legendary freelancer based in portugal</i></p>
 
