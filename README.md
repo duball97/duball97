@@ -2,94 +2,83 @@
   <img src="./banner.png" alt="Banner" width="100%" />
 </div>
 
-<div align="center">
-  <table align="center">
-    <tr>
-      <td style="padding-right: 20px;">
-        <img src="./duball.png" alt="duball" width="120" style="border-radius: 50%; border: 4px solid #ff6b35;" />
-      </td>
-      <td style="vertical-align: middle;">
-        <h1 style="font-size: 3.5em; margin: 0; letter-spacing: 2px;">
-          Duball<span style="color: #ff6b35;">97</span>
-        </h1>
-      </td>
-    </tr>
-  </table>
-  
-  <p style="font-size: 1.2em; color: #888; font-style: italic; margin: 10px 0 0 0; font-family: 'Courier New', monospace;">
-    legendary freelance dev + founder + builder
-  </p>
-  <p style="font-size: 0.95em; color: #999; margin-top: 8px; font-family: 'Georgia', serif;">
-    failed more times than we can count, still dreaming of the big one
-  </p>
-  <p style="font-size: 0.9em; color: #aaa; margin-top: 6px;">
-    based in portugal
-  </p>
-</div>
-
 <br/>
 
 <div align="center">
-  
-```ascii
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║   > been building for years, failed quite a few times     ║
-║   > legendary freelance dev, founder at heart             ║
-║   > currently: shipping a singing game (SingFi)           ║
-║   > lover of sidequests & the grind                       ║
-║   > one of these is gonna hit, we can feel it             ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
 
-</div>
+<h1>Duball97</h1>
 
----
+<p><i>legendary freelance dev + founder + builder</i></p>
 
-<div align="center">
-
-<h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">TECH STACK</h3>
-
-<p style="font-size: 1.1em; font-family: 'Courier New', monospace;">
-<code>React</code> <code>React Native</code> <code>Next.js</code> <code>JavaScript/TS</code> <code>Node</code> <code>Express</code> <code>Docker</code> <code>PostgreSQL</code> <code>Solidity</code> <code>Web3.js</code> <code>Ethers.js</code> <code>Canva</code> <code>Figma</code> <code>Photoshop</code> <code>Supabase</code>
-</p>
-
-</div>
+<p>based in portugal</p>
 
 <br/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/been_building_for_years-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/failed_quite_a_few_times-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/still_here-ff6b35?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/currently_shipping-SingFi-ff6b35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/lover_of-sidequests-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/one_of_these_is_gonna_hit-we_can_feel_it-555555?style=for-the-badge" />
+
+<br/><br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=duball97&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duball97&theme=radical&hide_border=true&background=00000000)
+
 </div>
 
 ---
 
 <div align="center">
 
-<h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">INTERESTS & SIDEQUESTS</h3>
+<h3>TECH STACK</h3>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
 
 </div>
-
-<p align="center">
-  <code>crypto</code>&nbsp;&nbsp;
-  <code>ai</code>&nbsp;&nbsp;
-  <code>basketball</code>&nbsp;&nbsp;
-  <code>football</code>&nbsp;&nbsp;
-  <code>startups</code>&nbsp;&nbsp;
-  <code>product</code>&nbsp;&nbsp;
-  <code>automation</code>&nbsp;&nbsp;
-  <code>games</code>&nbsp;&nbsp;
-  <code>3d printing</code>
-</p>
 
 ---
 
 <div align="center">
 
-<h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">THE VIBE</h3>
+<h3>INTERESTS & SIDEQUESTS</h3>
+
+<img src="https://img.shields.io/badge/crypto-ff6b35?style=flat-square" />
+<img src="https://img.shields.io/badge/ai-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/basketball-ff6b35?style=flat-square" />
+<img src="https://img.shields.io/badge/football-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/startups-ff6b35?style=flat-square" />
+<img src="https://img.shields.io/badge/product-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/automation-ff6b35?style=flat-square" />
+<img src="https://img.shields.io/badge/games-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/3d_printing-ff6b35?style=flat-square" />
+
+</div>
+
+---
+
+<div align="center">
+
+<h3>THE VIBE</h3>
 
 </div>
 
@@ -129,7 +118,7 @@ learning constantly
 
 <div align="center">
 
-<h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">LET'S CONNECT</h3>
+<h3>LET'S CONNECT</h3>
 
 <br/>
 
@@ -151,16 +140,10 @@ learning constantly
 
 <br/>
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  "failed a bunch of times already, but still here building.   ║
-║   one of these is gonna be the one. legendary freelance       ║
-║   dev turned founder. the grind doesn't stop."                ║
-║                                                               ║
-║                                              duball97         ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<blockquote>
+<p><i>"failed a bunch of times already, but still here building. one of these is gonna be the one. legendary freelance dev turned founder. the grind doesn't stop."</i></p>
+<p align="right"><b>duball97</b></p>
+</blockquote>
 
 </div>
 
