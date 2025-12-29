@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<h3>TECH STACK</h3>
+<h3>Tech I use</h3>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<h3>INTERESTS & SIDEQUESTS</h3>
+<h3>Things I like</h3>
 
 <img src="https://img.shields.io/badge/crypto-ff6b35?style=flat-square" />
 <img src="https://img.shields.io/badge/ai-333333?style=flat-square" />
@@ -53,43 +53,8 @@
 </div>
 
 
-<div align="center">
 
-<h3>WHAT I DO</h3>
-
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-**prototyping**
-
-quick ideas to working demos
-
-</td>
-<td width="33%" align="center">
-
-**building**
-
-from prototypes to production apps
-
-</td>
-<td width="33%" align="center">
-
-**experimenting**
-
-always learning new tech
-
-</td>
-</tr>
-</table>
-
-
-
-<div align="center">
-
-<h3>CONNECT</h3>
+<h3>Get in Touch</h3>
 
 <br/>
 
