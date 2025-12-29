@@ -3,17 +3,21 @@
 </div>
 
 <div align="center">
-  <img src="./duball.png" alt="duball" width="180" style="border-radius: 50%; border: 4px solid #ff6b35;" />
+  <div style="display: inline-flex; align-items: center; gap: 20px; margin: 20px 0;">
+    <img src="./duball.png" alt="duball" width="120" style="border-radius: 50%; border: 4px solid #ff6b35; vertical-align: middle;" />
+    <h1 style="font-size: 3.5em; margin: 0; letter-spacing: 2px; display: inline-block; vertical-align: middle;">
+      DUBALL<span style="color: #ff6b35;">97</span>
+    </h1>
+  </div>
   
-  <h1 style="font-size: 3.5em; margin: 20px 0 10px 0; letter-spacing: 2px;">
-    duball<span style="color: #ff6b35;">97</span>
-  </h1>
-  
-  <p style="font-size: 1.2em; color: #888; font-style: italic; margin: 0; font-family: 'Courier New', monospace;">
-    legendary freelance dev → founder → builder
+  <p style="font-size: 1.2em; color: #888; font-style: italic; margin: 10px 0 0 0; font-family: 'Courier New', monospace;">
+    legendary freelance dev + founder + builder
   </p>
   <p style="font-size: 0.95em; color: #999; margin-top: 8px; font-family: 'Georgia', serif;">
-    failed more times than i can count, still dreaming of the big one
+    failed more times than we can count, still dreaming of the big one
+  </p>
+  <p style="font-size: 0.9em; color: #aaa; margin-top: 6px;">
+    based in portugal
   </p>
 </div>
 
@@ -24,11 +28,11 @@
 ```ascii
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║   → been building for years, failed quite a few times     ║
-║   → legendary freelance dev, founder at heart             ║
-║   → currently: shipping a singing game (SingFi)           ║
-║   → lover of sidequests & the grind                       ║
-║   → one of these is gonna hit, i can feel it              ║
+║   > been building for years, failed quite a few times     ║
+║   > legendary freelance dev, founder at heart             ║
+║   > currently: shipping a singing game (SingFi)           ║
+║   > lover of sidequests & the grind                       ║
+║   > one of these is gonna hit, we can feel it             ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
@@ -39,7 +43,7 @@
 
 <div align="center">
 
-<h3 style="font-family: 'Courier New', monospace; letter-spacing: 3px; font-weight: bold;">WHAT I'M DOING NOW</h3>
+<h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">WHAT WE'RE DOING NOW</h3>
 
 </div>
 
@@ -74,17 +78,18 @@ prototypes → useful parts → weird experiments
 
 <div align="center">
 
-<h3 style="font-family: 'Courier New', monospace; letter-spacing: 3px; font-weight: bold;">TECH ARSENAL</h3>
+<h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">TECH STACK</h3>
 
 </div>
 
 <div align="center">
 
-| frontend | backend | blockchain | other |
+| frontend | backend | blockchain | design |
 |:---:|:---:|:---:|:---:|
-| `React` | `Node` | `Solidity` | `SQL` |
-| `React Native` | `Express` | `Web3.js` | `Canvas` |
-| `JavaScript/TS` | `APIs` | `Smart Contracts` | `Supabase` |
+| `React` | `Node` | `Solidity` | `Canva` |
+| `React Native` | `Express` | `Web3.js` | `Figma` |
+| `JavaScript/TS` | `Docker` | `Smart Contracts` | `Photoshop` |
+| `Next.js` | `PostgreSQL` | `Ethers.js` | `Supabase` |
 
 </div>
 
@@ -101,7 +106,7 @@ ui systems ◆ web3 flows ◆ automation ◆ game-ish experiences ◆ bots ◆ d
 
 <div align="center">
 
-<h3 style="font-family: 'Courier New', monospace; letter-spacing: 3px; font-weight: bold;">INTERESTS & SIDEQUESTS</h3>
+<h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">INTERESTS & SIDEQUESTS</h3>
 
 </div>
 
@@ -121,7 +126,7 @@ ui systems ◆ web3 flows ◆ automation ◆ game-ish experiences ◆ bots ◆ d
 
 <div align="center">
 
-<h3 style="font-family: 'Courier New', monospace; letter-spacing: 3px; font-weight: bold;">THE VIBE</h3>
+<h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">THE VIBE</h3>
 
 </div>
 
@@ -161,7 +166,7 @@ learning constantly
 
 <div align="center">
 
-<h3 style="font-family: 'Courier New', monospace; letter-spacing: 3px; font-weight: bold;">LET'S CONNECT</h3>
+<h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">LET'S CONNECT</h3>
 
 <br/>
 
@@ -188,9 +193,9 @@ learning constantly
 ║                                                               ║
 ║  "failed a bunch of times already, but still here building.   ║
 ║   one of these is gonna be the one. legendary freelance       ║
-║   dev turned founder — the grind doesn't stop."               ║
+║   dev turned founder. the grind doesn't stop."                ║
 ║                                                               ║
-║                                            — duball97         ║
+║                                              duball97         ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
