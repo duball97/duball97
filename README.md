@@ -3,12 +3,18 @@
 </div>
 
 <div align="center">
-  <div style="display: inline-flex; align-items: center; gap: 20px; margin: 20px 0;">
-    <img src="./duball.png" alt="duball" width="120" style="border-radius: 50%; border: 4px solid #ff6b35; vertical-align: middle;" />
-    <h1 style="font-size: 3.5em; margin: 0; letter-spacing: 2px; display: inline-block; vertical-align: middle;">
-      DUBALL<span style="color: #ff6b35;">97</span>
-    </h1>
-  </div>
+  <table align="center">
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="./duball.png" alt="duball" width="120" style="border-radius: 50%; border: 4px solid #ff6b35;" />
+      </td>
+      <td style="vertical-align: middle;">
+        <h1 style="font-size: 3.5em; margin: 0; letter-spacing: 2px;">
+          Duball<span style="color: #ff6b35;">97</span>
+        </h1>
+      </td>
+    </tr>
+  </table>
   
   <p style="font-size: 1.2em; color: #888; font-style: italic; margin: 10px 0 0 0; font-family: 'Courier New', monospace;">
     legendary freelance dev + founder + builder
@@ -43,53 +49,11 @@
 
 <div align="center">
 
-<h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">WHAT WE'RE DOING NOW</h3>
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**SingFi**  
-*singing game app*
-
-building something fun that merges music + gaming + tech  
-coming soon to your pocket
-
-**Status:** `actively shipping`
-
-</td>
-<td width="50%" valign="top">
-
-**3D printing journey**  
-*maker mode activated*
-
-starting the 3d printing adventure  
-prototypes → useful parts → weird experiments
-
-**Status:** `learning & printing`
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 <h3 style="font-family: 'Courier New', monospace; letter-spacing: 5px; font-weight: 900; text-transform: uppercase; font-size: 1.3em;">TECH STACK</h3>
 
-</div>
-
-<div align="center">
-
-| frontend | backend | blockchain | design |
-|:---:|:---:|:---:|:---:|
-| `React` | `Node` | `Solidity` | `Canva` |
-| `React Native` | `Express` | `Web3.js` | `Figma` |
-| `JavaScript/TS` | `Docker` | `Smart Contracts` | `Photoshop` |
-| `Next.js` | `PostgreSQL` | `Ethers.js` | `Supabase` |
+<p style="font-size: 1.1em; font-family: 'Courier New', monospace;">
+<code>React</code> <code>React Native</code> <code>Next.js</code> <code>JavaScript/TS</code> <code>Node</code> <code>Express</code> <code>Docker</code> <code>PostgreSQL</code> <code>Solidity</code> <code>Web3.js</code> <code>Ethers.js</code> <code>Canva</code> <code>Figma</code> <code>Photoshop</code> <code>Supabase</code>
+</p>
 
 </div>
 
@@ -97,8 +61,7 @@ prototypes → useful parts → weird experiments
 
 <div align="center">
 
-**focus areas**  
-ui systems ◆ web3 flows ◆ automation ◆ game-ish experiences ◆ bots ◆ dapps
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=duball97&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
 
 </div>
 
