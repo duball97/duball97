@@ -83,6 +83,6 @@
   <a href="https://github.com/duball97?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repos-ff6b35?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=duball97&color=ff6b35&style=for-the-badge&label=profile+views" alt="profile views" />
 </div>
