@@ -8,9 +8,9 @@
 
 <h1>About myself</h1>
 
-<p><i>freelance dev, founder & builder based in portugal</i></p>
+<p><i>full stack dev, founder & legendary freelancer based in portugal</i></p>
 
-<p>Background in management, escaped the office 9-5 by making in tech. Currently shipping SingFi, a singing game app. Lover of sidequests.</p>
+<p>Background in management, escaping the office 9-5 by making in tech. Currently shipping SingFi, a singing game app. Jack of all trades.</p>
 
 </div>
 
