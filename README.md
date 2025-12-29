@@ -58,6 +58,9 @@
 
 <h2>Connect</h2>
 
+<p>Hit me up if you have a good idea you would want to build! Always cool to connect with other builders.</p>
+
+
 <a href="https://github.com/duball97">
   <img src="https://img.shields.io/badge/GitHub-duball97-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
@@ -72,7 +75,6 @@
 
 <br/><br/>
 
-<p>Hit me up if you have a good idea you would want to build! Always cool to connect with other builders.</p>
 
 </div>
 
