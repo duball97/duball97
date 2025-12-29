@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 
 </div>
