@@ -14,7 +14,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -36,7 +35,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -54,7 +52,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -88,7 +85,7 @@ always learning new tech
 </tr>
 </table>
 
----
+
 
 <div align="center">
 
